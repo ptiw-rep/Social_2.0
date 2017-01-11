@@ -1,0 +1,28 @@
+/*COLORS, GLORIOUS COLORS*/
+
+$blue:#4b6772;
+html body {
+	height: 1000px;
+	width: 100%;
+	min-width: 40%;
+	margin: 0;
+	font-size: 1vw;
+}
+
+;
+.container {
+	width: 100%;
+	height: 100%;
+	background-color: $blue;
+	display: inline-block;
+	position: absolute;
+}
+
+;
+.topbar {
+	position: fixed;
+	display: inline-block;
+	width: 100%;
+	height: 60px;
+	background-color: slategray;
+}
