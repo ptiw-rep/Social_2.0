@@ -24,3 +24,10 @@ html body {
 	height: 60px;
 	background-color: slategray;
 }
+
+.logo {
+	height: 100%;
+	width: auto;
+	margin-left:4%;
+	display: block;
+}
